@@ -1,0 +1,11 @@
+1. collaborators : cộng tác
+2. repository : kho
+3. clone : sao chép
+4. description : mô tả
+5. quit : bỏ
+6. push : đẩy vào
+7. pull : kéo ra
+8. update : câp nhật
+9. branch : chi nhánh
+10. source : nguồn
+11. delete : xóa
