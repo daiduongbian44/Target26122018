@@ -1,4 +1,0 @@
-Muc tieu so 01:
-+ H?c ti?ng anh
-+ Ôn l?i source tree các l?nh
-+ Làm bài t?p web còn l?i
