@@ -1,2 +1,3 @@
 + tim hieu ve git
 + tim hieu ve tieng anh
++ co gang thanh thao co ban ve git.
