@@ -1,0 +1,2 @@
+1. Create new target using git
+2. Push this target on the github
