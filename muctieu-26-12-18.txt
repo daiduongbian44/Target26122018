@@ -1,0 +1,2 @@
+1. Check file for aws cognito
+2. Done for shipping section checkout
