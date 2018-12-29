@@ -2,3 +2,8 @@ fix bug from yesterday
 Come back home :D
 Exercise and GYM
 Study reactjs
+
+1, Done
+2, DOne
+3,Done 
+4, Not enough time !
