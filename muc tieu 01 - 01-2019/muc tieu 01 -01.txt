@@ -1,4 +1,0 @@
-﻿+ tiếp tục tập gõ 10 ngón 
-+ Xem lại bài giảng về về C# và Nodejs
-+ tim hiểu và học thêm về từ tiếng anh để thuận tiện cho việc học
-+ tìm hiểu thêm về nodejs và C#
