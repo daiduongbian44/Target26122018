@@ -1,0 +1,3 @@
++ cài các phần mềm cần thiết
++ tập đánh máy thêm nhiều hơn nữa
++ tìm hiểu về ngôn ngữ C#
