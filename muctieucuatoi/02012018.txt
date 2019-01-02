@@ -1,3 +1,7 @@
 Refactor css in project on company
 Do winform C# with selenium
 study reactjs
+
+Bugs very many and i can't fix it
+Done
+Not enough time
