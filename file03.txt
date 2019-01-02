@@ -1,1 +1,6 @@
-s?a file 03......
+s?a file 03
+<<<<<<< HEAD
+sua file 03
+=======
+s?a file 03
+>>>>>>> development
