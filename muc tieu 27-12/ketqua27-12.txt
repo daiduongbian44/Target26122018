@@ -1,0 +1,3 @@
++ kết quả tập gõ được 30 từ/1p
++ học được mấy từ tiếng anh hôm qua 
++ tìm hiểu được git.
