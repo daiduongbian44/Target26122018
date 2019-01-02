@@ -1,0 +1,4 @@
+﻿+ ôn lại bài để tiếp tục cho việc buổi chiều học
++ tìm hiểu thêm các hàm cơ bản của nodejs 
++ tìm hiểu thêm tiếng anh( ít nhất 15 từ vựng)
++ hoàn thành báo cáo về Crawler
