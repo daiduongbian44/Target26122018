@@ -1,0 +1,4 @@
+fix bugs 
+do project crawl data in C#
+typing 10p
+Exercise GYM
