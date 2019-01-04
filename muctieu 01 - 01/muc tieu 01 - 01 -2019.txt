@@ -1,4 +1,0 @@
-+ tập gõ 10 ngón (ít nhất 30p)
-+ học tiếng anh và tìm từ mới
-+ xem lại bài giảng nodeJs và C#.
-+ tìm hiểu thêm cơ bản về c# và nodejs
