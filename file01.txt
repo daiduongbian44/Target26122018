@@ -1,15 +1,2 @@
-Hello world 
-Changed from Thanh
 
-development
-
-Ninh fixxed this file
-i have to change this file. That is why i am writing.
-s?a code file01
-??????????????\
-// Sua noi dung by: TL
-abc
-change by lua
-
-hdhfjsf
-
+hai edit 0501
