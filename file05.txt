@@ -1,2 +1,13 @@
 edit test
+<<<<<<< HEAD
 hai5
+=======
+sua file 05
+<<<<<<< HEAD
+sua tiep
+=======
+sua file 05
+>>>>>>> development
+sua tiep
+>>>>>>> development
+hai edit 0401

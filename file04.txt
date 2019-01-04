@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Qu?nh s?a file
 hai4
+=======
+Qu?nh s?a file
+>>>>>>> development
+hai edit 0401
