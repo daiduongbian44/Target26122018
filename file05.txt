@@ -1,4 +1,5 @@
 edit test
+sua file 05
 <<<<<<< HEAD
 sua tiep
 =======
