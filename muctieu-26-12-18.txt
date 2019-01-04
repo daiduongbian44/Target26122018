@@ -1,3 +1,0 @@
-1. Check file for aws cognito
-2. Done for shipping section checkout
-3. Summary knowledge for angular training

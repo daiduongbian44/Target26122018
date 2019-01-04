@@ -1,15 +1,6 @@
-Hello world 
-Changed from Thanh
 
-development
-
-Ninh fixxed this file
-i have to change this file. That is why i am writing.
-s?a code file01
-??????????????\
-// Sua noi dung by: TL
-abc
-change by lua
-
-hdhfjsf
-
+<<<<<<< HEAD
+hai edit 0501
+=======
+hai edit 0501
+>>>>>>> 7ffe179aaf10f9d2074424b2ab4ea8f3f6fa4c34
