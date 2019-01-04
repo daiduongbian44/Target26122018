@@ -1,1 +1,8 @@
 edit test
+sua file 05
+<<<<<<< HEAD
+sua tiep
+=======
+sua file 05
+>>>>>>> development
+sua tiep
