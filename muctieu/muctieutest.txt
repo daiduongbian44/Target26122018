@@ -1,4 +1,0 @@
-M?c tiêu 26-12-2018
-1.lear source tree
-2. lear E
-3. fix bug 
