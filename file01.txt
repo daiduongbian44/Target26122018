@@ -1,6 +1,14 @@
-Ninh fixxed this file
-i have to change this file. That is why i am writing.
+Hello world 
+Changed from Thanh
+
+development
+
+i have to change this file. That is why i am writing. 06/01/2019
 s?a code file01
 ??????????????\
 // Sua noi dung by: TL
 abc
+change by lua
+
+
+
