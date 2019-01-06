@@ -1,0 +1,3 @@
+﻿Học kỹ mô hình MVC.
+Làm quen với code MVC C#.
+Gõ 10 ngón tay bài 5.
