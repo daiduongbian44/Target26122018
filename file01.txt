@@ -1,9 +1,3 @@
-Ninh fixxed this file
-i have to change this file. That is why i am writing.
-s?a code file01
-??????????????\
-// Sua noi dung by: TL
-abc
-change by lua
-
-hdhfjsf
+sua file 01
+1229
+sua file 0315

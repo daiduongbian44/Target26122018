@@ -1,3 +1,0 @@
-Refactor css in project on company
-Do winform C# with selenium
-study reactjs
