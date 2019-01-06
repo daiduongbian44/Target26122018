@@ -1,0 +1,27 @@
+
+share layout :file gốc
+layout: phần chung
+ public class HomeController : Controller**
+    {
+        public ActionResult Index()
+        {
+            return View();
+        }
+		
+luồng từ controller=> method: index 
+nếu ko có gì thì trả về view** ( layout+body) 
+return view (), => cùng tên method
+1 controller -> n view vì 1 controller có nhiều method
+model +nhận dữ liệu
+      +đọc từ database
+=> cái giỏ 
+database(10)  ||      user
+    |         ||       |
+controller(2) ||<-----view
+Vì controller là thành phần xử lý nên có tính chắt lọc
+Entity(model 2) tính từ controller   View model(model 1)
+
+Tổng kết:
+MVC-model view controller
+luồng chạy của project
+view bao gồm
