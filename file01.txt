@@ -1,12 +1,13 @@
 sua file 01
 1229
+<<<<<<< HEAD
 sua file 0315Hello world 
 Changed from Thanh
 
 development
 
 Ninh fixxed this file
-i have to change this file. That is why i am writing.
+i have to change this file. That is why i am writing. 7/1/2019
 s?a code file01
 ??????????????\
 // Sua noi dung by: TL
@@ -18,3 +19,8 @@ hdhfjsf
 sua file 01
 1229
 sua file 0315
+=======
+sua file 0315
+sua file 1835
+18h40
+>>>>>>> e1144ef9da421c1d9ff49445d9ec447fddc2b7ec
