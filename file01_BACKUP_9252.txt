@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+Hello world 
+Changed from Thanh
+
+development
+
+i have to change this file. That is why i am writing. 06/01/2019
+s?a code file01
+??????????????\
+// Sua noi dung by: TL
+abc
+change by lua
+
+
+
+=======
+sua file 01
+1229
+sua file 0315
+>>>>>>> f06295bca48027d001f689e68326374dfd063bf2
