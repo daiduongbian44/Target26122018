@@ -1,6 +1,4 @@
-sua file 01
-1229
-sua file 0315Hello world 
+Hello world 
 Changed from Thanh
 
 development
@@ -15,6 +13,3 @@ change by lua
 
 hdhfjsf
 
-sua file 01
-1229
-sua file 0315
