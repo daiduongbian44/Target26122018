@@ -1,3 +1,0 @@
-mục tiêu ngày 3012
-gõ 10 ngón
-thực hiện chạy lại code c# test
